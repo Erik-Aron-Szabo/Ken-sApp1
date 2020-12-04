@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ken\'sApp1</string>
+    <string name="streetEx">1st Avenue</string>
+    <string name="postalCode">11590</string>
+    <string name="city">Franklin Square</string>
+    <string name="find">Find</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="addressEx">889 1st Avenue Franklin Square</string>
+    <string name="map">map</string>
+</resources>
